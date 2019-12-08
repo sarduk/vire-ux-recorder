@@ -1,0 +1,23 @@
+{
+  "name": "prj_vire-ux-recorder",
+  "version": "1.0.0",
+   "description": "User Experience web recorder ",
+  "main": "lib/app.js",
+  "scripts": {
+    "test": "jest --config jestconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarduk/vire-ux-recorder.git"
+  },
+  "keywords": ["web"],
+  "author": "reabiagio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarduk/vire-ux-recorder/issues"
+  },
+  "homepage": "https://github.com/sarduk/vire-ux-recorder#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
